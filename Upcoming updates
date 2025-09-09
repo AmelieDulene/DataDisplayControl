@@ -1,0 +1,26 @@
+The DDC has been specifically developed to optimize its core strengths. 
+It remains a specialized component for clear data visualization—not as an alternative to DataGridView, but as a focused tool for simple and clear data presentation.
+
+Main Extensions for .Net 8 (also for .NET 4.8 – last Version 1.0.0.4)
+Version 3.0.1.5
+    • Scrolling System
+        ◦ Complete scrollbar system
+        ◦ Mouse interactions and API methods
+        ◦ Configurable properties
+Version 3.0.2.2
+    • Headline System
+        ◦ Detailed headline functionality
+        ◦ Layout adjustments and interaction improvements
+        ◦ Technical implementation
+Version 3.0.2.4
+    • Bugfixes
+        ◦ Specific fixes for scrollbar-headline integration
+Main Improvements
+    • Scrollbar Properties are now more clearly structured:
+        ◦ MaxVisibleItems - Maximum number of visible items
+        ◦ ScrollEnabled - On/Off switch (Boolean True/False)
+        ◦ ScrollBarWidth - Width configurable in pixels
+        ◦ Automatic activation
+    • Headline Details
+        ◦ TitleColor is used as a visual separator from data rows.
+        ◦ Clarification that only data items scroll; headlines remain fixed.
